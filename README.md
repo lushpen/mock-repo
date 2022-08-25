@@ -4107,8 +4107,7 @@ I want to share my impressions about the learned material. Initially, when I sta
 
 I am Dmytro and I am glad that I am here:) It's pleasure to study here! Thanks 4 all:)
 
-P.S. Here is my kottans [repo]:
-https://github.com/lushpen/kottans-frontend
+P.S. Here is my kottans [repo](https://github.com/lushpen/kottans-frontend)
 
 ## Hello, Kottans!
 My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
